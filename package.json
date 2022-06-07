@@ -25,6 +25,7 @@
     "mkdirp": "^1.0.4",
     "mock-fs": "^4.1.0",
     "setimmediate": "^1.0.5",
+    "sha3": "^1.2.2",
     "tar": "^4.0.2",
     "xhr-request": "^1.0.1"
   },
