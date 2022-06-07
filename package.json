@@ -22,7 +22,7 @@
     "fs-extra": "^4.0.2",
     "got": "^7.1.0",
     "mime-types": "^2.1.16",
-    "mkdirp-promise": "^5.0.1",
+    "mkdirp": "^1.0.4",
     "mock-fs": "^4.1.0",
     "setimmediate": "^1.0.5",
     "tar": "^4.0.2",

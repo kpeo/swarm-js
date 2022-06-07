@@ -8,7 +8,7 @@ const assert = require("assert");
 const crypto = require("crypto");
 const fs = require("fs-extra");
 const got = require("got");
-const mkdirp = require("mkdirp-promise");
+const mkdirp = require("mkdirp");
 const path = require("path");
 const tar = require("tar");
 
